@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616344430856",
+    "firebase_url": "https://vpr19-text-recognition.firebaseio.com",
+    "project_id": "vpr19-text-recognition",
+    "storage_bucket": "vpr19-text-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616344430856:android:5557e7789d059f3e0864bd",
+        "android_client_info": {
+          "package_name": "com.example.vpr19textrecognation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616344430856-fo87j6o3hh57bsvp1tb8gkeglh5tn9q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZl1rdfPk2Wb60NZGtdfyfVPH7qyafPwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616344430856-fo87j6o3hh57bsvp1tb8gkeglh5tn9q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
